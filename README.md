@@ -1,7 +1,9 @@
+## I forked this repository to help spread the news. No more will I let newcomers be bullied by VIM!!!
+
 # VIMKiller
 
 VI(M) is hard, and sometimes we need to take drastic measures. We understand your needs.
-Maybe you're new on the job, and you forgot to set your default text editor to nano, emacs,
+Maybe you're new onthe job, and you forgot to set your default text editor to nano, emacs,
 gedit, whatever. VIM pops up and now you have to make a choice...
 
 ![alt text1](https://raw.githubusercontent.com/caseykneale/VIMKiller/master/pictures/screen.png)
